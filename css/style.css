@@ -1,0 +1,54 @@
+body {
+        color: rgb(66,48,64);
+        background-color: rgb(66,48,64);
+        background-image: url("http://i1067.photobucket.com/albums/u428/llauren044/gplaypattern_2X%20copy_zpsnl4gciyw.png");
+        background-position: center;
+        font-family: Georgia, times, serif;
+        line-height: 1.4em;
+        margin: 0px;}
+
+
+
+
+h1 {
+	background-color: rgb(66,48,64)
+}
+
+#para1 {
+	background-color: rgb(181,217,217)
+    }
+	
+#para2 {
+	background-color: rgb(61,141,148)
+}
+h3{
+	background-color: rgb(61,141,148)
+}
+#para3 {
+	background-color: rgb(61,141,148)
+}
+
+h4
+
+#para4
+
+h6 {
+	background-color: rgb(66,48,64)
+}
+#para5 {
+	background-color: rgb(66,48,64)
+}
+
+
+
+
+	h1, h2, h3, h4, h5, h6 {
+		font-family: Constantia, Lucinda Bright, Dejavu Serif, Georgia, serif; color: white; font-size: 30px;
+
+	}
+
+	#para1, #para2, #para3, #para4, #para5, #para6, #para12 {
+		font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif; color: white; font size: 25px;
+	}
+
+
